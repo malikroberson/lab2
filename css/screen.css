@@ -1,0 +1,25 @@
+
+html {
+  background: #6cc2d4;
+  line-height: 1.5em;
+  padding: 1.5em; 
+  font-size: 1.0em;
+}
+
+h1 {
+  font-size: 1.6em;
+  padding-bottom: 1.3em; 
+  text-align: center;
+  font-weight: bold;
+}
+
+form {
+  margin: 1em;
+  width: 1%;
+}
+
+@media screen and (min-width: 55.555556em) {
+  #wrap {
+    display: inline-block;
+    justify-content: center;
+  }
